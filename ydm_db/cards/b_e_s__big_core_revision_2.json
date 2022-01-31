@@ -1,0 +1,21 @@
+{
+  "id": 69420,
+  "name": "B.E.S. Big Core Revision 2",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your LP is 2000 or lower, you can Special Summon this card from your Extra Deck. At the start of the Damage Step, if this card battled: Add 1 counter to this card (Max 2.). While you control another \"B.E.S.\" Monster, monsters cannot target this card for attacks, also your opponent cannot target it with card effects. Once Per Turn (Quick Effect): you can remove 2 Counters from this card, and if you do, Special Summon 1 \"B.E.S.\" monster from your GY.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/926042075517059082/937740855597490206/B.E.S._Big_Core_Revision_2.png"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Soul",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 0,
+  "is_tuner": false
+}
