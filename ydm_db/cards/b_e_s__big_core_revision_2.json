@@ -11,7 +11,7 @@
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Machine",
-  "monster_type": "Soul",
+  "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
