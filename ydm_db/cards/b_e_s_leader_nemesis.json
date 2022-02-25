@@ -1,0 +1,24 @@
+{
+  "id": 69421,
+  "name": "B.E.S. Leader Nemesis",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ \"B.E.S.\" monsters This card's ATK is equal to the number of Counters on your side on the field X 300, this card cannot be destroyed by battle. \"B.E.F. Zelos\" you control cannot be destroyed by card effects. If another \"B.E.S.\" monster(s) is Summoned: Place 1 Counter on that Summoned monster(s). Once per turn (Quick Effect): You can destroy 1 \"B.E.S\" monster from your hand; destroy 1 monster on the field.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/926042075517059082/937687997808263208/b_e_s__leader_nemesis_by_rodgeaurablader_de983dh-250t.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

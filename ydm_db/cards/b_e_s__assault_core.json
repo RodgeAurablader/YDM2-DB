@@ -1,0 +1,21 @@
+{
+  "id": 141480911119,
+  "name": "B.E.S. Assault Core",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn: you can Special Summon this card from your hand; if Special Summoned this way, discard one card: then add one \"B.E.F. Zelos\" from your deck to your hand. You can only use each effect of \"B.E.S. Assault Core\" once per turn.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/937626532816490617/946838181737799690/Capture.PNG"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

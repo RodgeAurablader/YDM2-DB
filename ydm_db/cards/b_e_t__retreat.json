@@ -1,0 +1,12 @@
+{
+  "id": 69422,
+  "name": "B.E.T. Retreat",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"B.E.S.\" Monster you control: Special Summon 1 \"B.E.S.\" Monster from your deck whose level is less than or equal to the targeted Monster, and, if you do, shuffle the targeted Monster back into the deck, also, place Counters on the Special Summoned Monster equal to the difference in its level and the level of the targeted Monster. You can only activate 1 \"B.E.T. Retreat\" per turn.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/926042075517059082/937687998772953098/B.E.T._Retreat.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

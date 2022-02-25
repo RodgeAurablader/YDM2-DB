@@ -1,0 +1,12 @@
+{
+  "id": 69424,
+  "name": "B.E.T. Phase Change",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove counters from 1 \"B.E.S.\" monster you control with 2 or more counters until it has 1 remaining, then reveal \"B.E.S.\" monsters in your hand and/or target \"B.E.S\" monsters in your GY up to the number of counters removed; Special Summon those monsters, and if you do, you cannot summon monsters this turn, except \"B.E.S\" monsters. You can banish this card from your GY; Set 1 \"B.E.\" Spell/Trap card from your Deck, except \"B.E.T. Phase Change\". You can only use one effect of \"B.E.T. Phase Change\" per turn, and only once that turn.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/926042075517059082/937687998491942952/Phase_Change.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

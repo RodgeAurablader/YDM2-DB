@@ -1,0 +1,22 @@
+{
+  "id": 69423,
+  "name": "B.E.S. Plate Core",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 \"B.E.S.\" monster When this card is Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. When this card battles an opponent's monster, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy this card.You can Normal Summon \"B.E.S.\" monsters to your Zones this card points to without Tributing. (Quick Effect): You can activate this effect; \"Boss Rush\" Spell Cards you control have their effects negated until the End Phase.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/926042075517059082/937687998017982464/b_e_s__plate_core_by_rodgeaurablader_de983o9-250t.png"
+    ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

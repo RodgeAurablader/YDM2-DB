@@ -1,0 +1,335 @@
+{
+  "name": "Starlight Crosssoul",
+  "code": "SKCS",
+  "type": "60 Card Set",
+  "date": "19-06-2020",
+  "image": "",
+  "pull_type": "distribution",
+  "distribution": "60_card_set_with_collector_s_rare",
+  "cards": [
+    {
+      "id": 975299,
+      "code": "SKCS-001",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 975299,
+      "code": "SKCS-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69424,
+      "code": "SKCS-002",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69424,
+      "code": "SKCS-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69424,
+      "code": "SKCS-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69422,
+      "code": "SKCS-003",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69422,
+      "code": "SKCS-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69422,
+      "code": "SKCS-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69425,
+      "code": "SKCS-004",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69425,
+      "code": "SKCS-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69425,
+      "code": "SKCS-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 141480911119,
+      "code": "SKCS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 141480911119,
+      "code": "SKCS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69421,
+      "code": "SKCS-006",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69421,
+      "code": "SKCS-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84257883,
+      "code": "SKCS-007",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84257883,
+      "code": "SKCS-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84257883,
+      "code": "SKCS-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69420,
+      "code": "SKCS-008",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69420,
+      "code": "SKCS-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82821760,
+      "code": "SKCS-009",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82821760,
+      "code": "SKCS-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14148099,
+      "code": "SKCS-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14148099,
+      "code": "SKCS-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 975299,
+      "code": "SKCS-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "SKCS-012",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "SKCS-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14778250,
+      "code": "SKCS-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SKCS-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "SKCS-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "SKCS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80117527,
+      "code": "SKCS-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "SKCS-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80101899,
+      "code": "SKCS-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "SKCS-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77522571,
+      "code": "SKCS-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30114823,
+      "code": "SKCS-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97854941,
+      "code": "SKCS-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67865534,
+      "code": "SKCS-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49036338,
+      "code": "SKCS-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "SKCS-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "SKCS-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9596126,
+      "code": "SKCS-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "SKCS-029",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "SKCS-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82301904,
+      "code": "SKCS-030",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82301904,
+      "code": "SKCS-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99365553,
+      "code": "SKCS-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25460258,
+      "code": "SKCS-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77498348,
+      "code": "SKCS-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67310848,
+      "code": "SKCS-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21323861,
+      "code": "SKCS-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24096228,
+      "code": "SKCS-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "SKCS-037",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
